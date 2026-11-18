@@ -1,1 +1,0 @@
-print("correcao do bug")
